@@ -5,7 +5,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 	lrs "github.com/Sirupsen/logrus/hooks/syslog"
 	"github.com/casualjim/go-app/logging"
 	"github.com/spf13/viper"
