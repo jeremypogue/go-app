@@ -4,7 +4,7 @@ import (
 	"runtime"
 	"time"
 
-	logrus "github.com/Sirupsen/logrus"
+	logrus "github.com/sirupsen/logrus"
 	metrics "github.com/rcrowley/go-metrics"
 )
 
