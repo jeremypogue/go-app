@@ -13,7 +13,7 @@ import (
 	"sync"
 	"syscall"
 
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 	"github.com/casualjim/go-app/logging"
 	"github.com/casualjim/go-app/tracing"
 	cjm "github.com/casualjim/middlewares"
